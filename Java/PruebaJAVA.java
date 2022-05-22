@@ -1,0 +1,13 @@
+System.out.println("Hola me llamo Fabiana Martínez, soy del grupo 4");
+        System.out.println("Este es un ejemplo de programa que hará la sumatoria de 6 notas que el usuario indique");
+Scanner entrada=new Scanner(System.in);
+float nota1,nota2,nota3,nota4,nota5,nota6,suma;
+        System.out.println("Indique las 6 notas obtenidas: ");
+nota1=entrada.nextFloat();
+nota2=entrada.nextFloat();
+nota3=entrada.nextFloat();
+nota4=entrada.nextFloat();
+nota5=entrada.nextFloat();
+nota6=entrada.nextFloat();
+suma=nota1+nota2+nota3+nota4+nota5+nota6;
+        System.out.println("La nota final obtenida es: "+suma);

@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta charset="uft-8>
+<title> Proyecto de práctica sobre el uso de Git </title>
+<style>
+
+h1{
+	color:grey;
+	background-color: white;
+	border: solid black;
+}
+
+p{
+	color: blue;
+}
+
+</style>
+</head>
+
+<body>
+<h1> Hola mundo </h1>
+<p> Ejercicio de aplicacción de repositorio en git</p>
+</body>
+</html>
